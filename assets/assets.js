@@ -22,7 +22,7 @@ import redirect_icon from "./redirect_icon.svg";
 import star_dull_icon from "./star_dull_icon.svg";
 import donation_image from "./donation_image.png";
 import pngtree_big_tree from "./pngtree_big_tree.png";
-import passiton_logo from "./passiton_logo.png";
+import passitonlogo from "./passitonlogo.png";
 import Buying_cheap from "./Buying_cheap.jpg";
 import donate_image from "./donate_image.jpeg";
 import ngo_image from "./NGO_img.jpeg";
@@ -55,7 +55,7 @@ import product_details_page_apple_earphone_image5 from "./product_details_page_a
 
 export const assets = {
   logo,
-  passiton_logo,
+  passitonlogo,
   Buying_cheap,
   ngo_image,
   donate_image,
@@ -151,7 +151,7 @@ export const productsDummyData = [
     "timeleft": "1 Day",
     "offerPrice": 20.00,
     "image": [
-      "https://stores.maxfashion.in/max-qrs-retail-pvt-ltd-shopping-centre-mulund-mumbai-105534/ProductDetails/1000008928042",
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743817933/Screenshot_2025-04-05_071800_mtzzir.png",
     ],
     "category": "Clothing",
     "date": 1738667236865,
@@ -165,7 +165,7 @@ export const productsDummyData = [
     "timeleft" : "1 Day",
     "offerPrice": 329.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818125/Screenshot_2025-04-05_072513_rnnosx.png"
     ],
     "category": "Books",
     "date": 1738667310300,
@@ -179,7 +179,7 @@ export const productsDummyData = [
     "timeleft" : "2 Days",
     "offerPrice": 199.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818244/Screenshot_2025-04-05_072633_vrvtht.png"
     ],
     "category": "Kitchen",
     "date": 1738667366224,
@@ -193,7 +193,7 @@ export const productsDummyData = [
     "timeeft": "3 Days",
     "offerPrice": 349.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818244/Screenshot_2025-04-05_072707_ewlxb9.png"
     ],
     "category": "Accessories",
     "date": 1738667417511,
@@ -207,7 +207,7 @@ export const productsDummyData = [
     "timeleft": "21 hrs",
     "offerPrice": 49.00,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818336/Screenshot_2025-04-05_072811_vepiwt.png"
     ],
     "category": "Accessories",
     "date": 1738667503075,
@@ -221,7 +221,8 @@ export const productsDummyData = [
     "timeleft": "1 Day",
     "offerPrice": 39.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818336/Screenshot_2025-04-05_072831_wy1ae6.png",
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818335/Screenshot_2025-04-05_072840_mnmxo6.png"
     ],
     "category": "Gardening",
     "date": 1738667788883,
@@ -235,7 +236,7 @@ export const productsDummyData = [
     "timeleft": "5 days",
     "offerPrice": 299.00,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818520/Screenshot_2025-04-05_073021_zqtycg.png"
     ],
     "category": "Tools",
     "date": 1738667977644,
@@ -249,7 +250,7 @@ export const productsDummyData = [
     "timeleft": "2 Days",
     "offerPrice": 299.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818520/Screenshot_2025-04-05_073052_kuoe0e.png"
     ],
     "category": "Lunch Boxes",
     "date": 1738668086331,
@@ -263,7 +264,8 @@ export const productsDummyData = [
     "timeleft": "3 Days",
     "offerPrice": 99.00,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818520/Screenshot_2025-04-05_073110_kjp3eg.png",
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818520/Screenshot_2025-04-05_073117_qjrr5w.png"
     ],
     "category": "Footwear",
     "date": 1738668126660,
@@ -277,7 +279,7 @@ export const productsDummyData = [
     "timeleft": "21 days",
     "offerPrice": 199.99,
     "image": [
-      ""
+      "https://res.cloudinary.com/dwgkpdqeo/image/upload/v1743818520/Screenshot_2025-04-05_073137_xkcjyk.png"
     ],
     "category": "Lighting",
     "date": 1738668619198,

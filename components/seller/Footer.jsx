@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="flex items-center gap-4">
         <Image
           className="hidden md:block w-16 h-auto" // Adjusted size for the logo
-          src={assets.passiton_logo}
+          src={assets.passitonlogo}
           alt="logo"
         />
         <div className="hidden md:block h-7 w-px bg-gray-500/60"></div>
